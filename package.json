@@ -1,0 +1,18 @@
+{
+  "name": "TileSrv",
+  "version": "1.0.0",
+  "description": "Server for issuing tiles and working with maps",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "map",
+    "tiles"
+  ],
+  "author": "Vitaliy Khudokon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
